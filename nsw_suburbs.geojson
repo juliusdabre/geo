@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"Suburb": "Dummy Suburb"}, "geometry": {"type": "Polygon", "coordinates": [[[148.5, -32.3], [148.7, -32.3], [148.7, -32.1], [148.5, -32.1], [148.5, -32.3]]]}}]}
